@@ -1,5 +1,6 @@
-
+![image](https://github.com/user-attachments/assets/5b6d9ed1-b7ce-498f-883a-6e34e3f4bff9)
 # Movies Website
+![Uploading image.png…]()
 
 A simple web application that allows users to search for movies using The Movie Database (TMDb) API. The application has a user-friendly interface similar to Netflix, displaying popular movies and their details.
 
@@ -93,6 +94,7 @@ This project is licensed under the MIT License.
 - [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api) for movie data.
 ```
 
+
 ### Instructions to Customize
 
 - Replace `https://github.com/yourusername/movies-website.git` with the actual link to your GitHub repository.
@@ -106,7 +108,6 @@ This project is licensed under the MIT License.
 
 
 
-![Uploading image.png…]()
 
 2. Copy and paste the above content into the file.
 3. Save the file.
